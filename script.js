@@ -10,3 +10,7 @@
  	}
 
  }
+
+ // Palindrome
+
+ console.log('Palindrome');
